@@ -1,0 +1,30 @@
+#root {
+    padding-top: 68px;
+}
+
+.bg-primary {
+    background-color: #006639 !important;
+}
+
+.btn-primary {
+    background-color: #006639 !important;
+    border: #006639 !important;
+}
+
+.bg-secondary {
+    background-color: #108a10 !important;
+}
+
+.vertical-center {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+}
+
+.navbar-nav > .nav-item > .nav-item > .nav-link {
+    color: rgba(255, 255, 255, 0.5)
+}
+
+.text-secondary {
+    color: #108a10 !important;
+}
